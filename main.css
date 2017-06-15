@@ -1,0 +1,94 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+
+.balsiq {
+    height: 55px;
+    background-color: black;
+    padding-top: 20px;
+}
+.menu1 {
+    color:white;
+    font: 35px arial;
+    padding-left: 140px;
+}
+.menu2 {
+    color:white;
+    font-family: verdana;
+    padding-right: 50px;
+    padding-left: 650px;
+
+}
+.menu3 {
+    color: white;
+    font-family: verdana;
+}
+.sekil {
+    background-image: url(https://static.pexels.com/photos/23049/pexels-photo.jpg);
+    height: 300px;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 200px;
+}
+#sekil_adi {
+    background-color: #ffffff;
+    opacity: .4;
+    padding: 10px 10px;
+    color:  gray;
+    font: 25px arial;
+    margin-left: 35%;
+    
+    
+}
+.table_div {
+    background-color: black;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 13px;
+}
+.table_menu {
+    width: 40%;
+    margin: auto;
+    border-collapse: collapse;
+}
+th{
+    border: 1px solid gray;
+    color: white; 
+    font-size: 40px;
+    font: 35px arial;
+    padding-top: 20px;
+    text-align: center;
+}
+span {
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    /*padding-top: -30px;*/
+}
+.alt_hisse {
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    margin-top:35px;
+}
+#alt_basliq {
+    color: black;
+    font: 25px arial;
+    margin-left:43%;
+    
+   
+}
+#alt_melumat {
+    padding: 10px 128px;
+    font:15px serif;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+#sonluq {
+    font: 20px serif;
+    font-size:25px;
+    color:black;
+    padding-left: 570px;
+    
+}
